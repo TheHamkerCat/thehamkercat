@@ -5,7 +5,6 @@
 - 💬 Ask me about ...Anything?
 - 📫 How to reach me: [Instagram](https://instagram.com/nikonerds) / [Telegram](https://t.me/thehamkercat)
 
-
 **Languages:** 
 <code><img height="20" src="https://img.favpng.com/1/6/16/bash-shell-command-line-interface-ls-png-favpng-sySx0g0xTFKCgKcq1aVVvjcCb.jpg"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVS5wOrF1fXHLGU-HDaTvt1LZG0ZF2aRmIEw&usqp=CAU"></code>
@@ -16,3 +15,5 @@
 ![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"])
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=thehamkercat&style=flat-square)
+
+<img src="https://hamker.h4ck.me/Index/a.gif" alt="alext" width="200" height="200">
