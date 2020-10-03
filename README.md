@@ -15,4 +15,3 @@
 
 ![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"]) <img src="https://hamker.h4ck.me/Index/a.gif" alt="alext" width="193" height="193">
 
-![Profile visit badge](https://komarev.com/ghpvc/?username=thehamkercat&style=flat-square)
