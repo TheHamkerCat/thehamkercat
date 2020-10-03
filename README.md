@@ -12,8 +12,6 @@
 <code><img height="20" src="https://icon2.cleanpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg"></code>
 <code><img height="20" src="https://p.kindpng.com/picc/s/159-1595798_python-computer-icons-programmer-javascript-programming-python-logo.png"></code>
 
-![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"])
+![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"]) <img src="https://hamker.h4ck.me/Index/a.gif" alt="alext" width="193" height="193">
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=thehamkercat&style=flat-square)
-
-<img src="https://hamker.h4ck.me/Index/a.gif" alt="alext" width="200" height="200">
