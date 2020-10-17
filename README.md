@@ -13,5 +13,6 @@
 <img src="https://www.pinclipart.com/picdir/middle/16-165768_javascript-logo-number-angularjs-node-javascript-logo-png.png" alt="" width="25" height="25">
 
 
-![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"]) <img src="https://hamker.h4ck.me/Index/a.gif" alt="alext" width="193" height="193">
+[![Hamker's github stats](https://github-readme-stats.vercel.app/api?username=thehamkercat&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
