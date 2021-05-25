@@ -12,9 +12,8 @@ from dataclasses import asdict, dataclass
 
 @dataclass
 class Stack:
-    languages   : tuple[str, ...] = ("Python", "Bash", "HTML", "CSS")
-    misc        : tuple[str, ...] = ("Docker", "Linux", "FastAPI")
-    ongoing     : tuple[str, ...] = ("Django", "Java", "JavaScript")
+    languages   : tuple[str, ...] = (".Py", ".C", ".Sh", ".HTML", ".CSS")
+    misc        : tuple[str, ...] = ("Linux", "FastAPI", "Pyrogram")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
@@ -25,5 +24,3 @@ print(stack.serialize())
 ​
 ```
 </h3>
-
-
