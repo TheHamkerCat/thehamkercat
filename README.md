@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=57duiboyv11ctlr6g7e6tu9uw&cover_image=true&theme=novatorem&bar_color=3dc238&bar_color_cover=false)](https://open.spotify.com/user/57duiboyv11ctlr6g7e6tu9uw?si=c53673106cf54522)
+
 ## Info
 
 Hi There, I'm Akshay, A 18 Y.O. Programmer From India.
