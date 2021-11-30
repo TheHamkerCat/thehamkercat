@@ -4,7 +4,7 @@
 
 ## Info
 
-Hi There, I'm Akshay, A 18 Y.O. Programmer From India.
+Hi There, I'm Akshay, An 18 Y.O. Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : cpp, react-native
