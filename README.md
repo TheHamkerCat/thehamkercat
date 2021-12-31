@@ -5,7 +5,7 @@
 Hi There, I'm Akshay, 18 Y.O. Friendly Neighbourhood Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
-- :school: I'm currently learning : cpp, react-native
+- :school: I'm currently learning : kotlin
 - :cat: Fun fact : I like cats
 
 ## Where to find me
