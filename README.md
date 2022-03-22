@@ -40,9 +40,7 @@ Hi There, I'm Akshay, 18 Y.O. Friendly Neighbourhood Programmer From India.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -56,5 +54,3 @@ Hi There, I'm Akshay, 18 Y.O. Friendly Neighbourhood Programmer From India.
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheHamkerCat&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&layout=compact&theme=github_dark)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=57duiboyv11ctlr6g7e6tu9uw&count=5)
