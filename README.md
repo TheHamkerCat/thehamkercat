@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi There, I'm Akshay, 18 Y.O. Friendly Neighbourhood Programmer From India.
+Hi There, I'm Akshay, 19 Y.O. Friendly Neighbourhood Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : rust
