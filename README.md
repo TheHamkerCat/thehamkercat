@@ -79,5 +79,4 @@ Hi There, I'm Akshay, 19 Y.O. Friendly Neighbourhood Programmer From India.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&theme=github_dark&layout=compact&exclude_repo=WilliamButcherBot,Telegram_VC_Bot,SpamProtectionRobot,GdriveSearcherBot,LunaChatBot)
 
-
-<a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+<a href="https://www.vultr.com/?ref=9456307"><img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" alt="Vultr" /></a>
