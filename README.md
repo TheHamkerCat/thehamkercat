@@ -2,7 +2,7 @@ Hello, I'm Akshay, 20-year-old friendly neighbourhood programmer from India.
 
 - :computer: **I'm currently working on:**  Some LLM stuff
 - :school: **I'm currently learning:**  K8s
-- :cat: **Fun fact:** I like cat. (also, i use arch btw)
+- :cat: **Fun fact:** I like cats. (also, i use arch btw)
 
 # Skills
 
