@@ -6,38 +6,35 @@ Hello, I'm Akshay, 20-year-old friendly neighbourhood programmer from India.
 
 # Skills
 
-### Languages
+### Languages I have good experience with
+GO, Rust, Python, Kotlin, C/C++, HTML/CSS/JS (SvelteKit & React with tailwind)
 
-GO, Rust, Python, Kotlin, C/C++, HTML/CSS/JS (Svelte)
+### Languages I can code in
+Virtually any
 
-### Frontend
-Svelte(kit), Tailwind, (A bit of react and nextjs)
-
-### Databases
+### Databases I use and manage everyday
 SQLite, Postgres, Mongo, Redis
 
 
-### OS
+### Tools
+Docker, K8s, Nginx
 
-Android on Phone, Arch on Workstation, Debian on servers.
+OPNsense (for my home network, with 3 different ISPs for failover), Proxmox (for my homelab, 3 nodes)
 
-### Specs
+VsCode and Vim
+
+
+### OS on my devices
+Android on Phone, Arch on Workstation (Virtualized with GPU passthrough, KDE and BSPWM), Debian on servers and VMs.
+
+### Hardware
 ```
 ArchLinux x86_64, Terminal: Kitty (zsh)
-3x1080p-24", Ryzen 7 7800X3D, RTX 3060, 64GB DDR5
+2x1080p-24" + 1x2160p-32" (PD3205U), Ryzen 7 7800X3D, RTX 3060 + RX6600, 64GB DDR5
 ```
 
-# Other tools and apps which i use
-
-### Tools
-Docker, K8s, OPNsense, Proxmox, Nginx
-
 ### Browsers
-Firefox, Tor
-
-### Text-Editors and IDEs
-Neovim, VsCode, RustRover, Pycharm
-
+Zen & Tor
 
 ## Stats
 
